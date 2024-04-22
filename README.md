@@ -146,4 +146,5 @@ git push
 git branch ft/team-page
 git branch
 git branch ft/contact-page
-
+git add .
+git checkout 
