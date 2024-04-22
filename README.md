@@ -145,3 +145,5 @@ git commit -m "final changes on contents"
 git push
 git branch ft/team-page
 git branch
+git checkout main
+
