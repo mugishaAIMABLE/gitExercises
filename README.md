@@ -146,4 +146,16 @@ git push
 git branch ft/team-page
 git branch
 git checkout main
-
+git switch ft/contact-page
+git add .
+git commit -m "changes on the readme file"
+git log
+git checkout ft/team-page
+git cherry-pick 139a6fa90b438b75f3aa072eb10b7cc229e529bc
+git checkout ft/contact-page
+git add .
+git commit -m "added changes in the readme and team files"
+git push
+git push origin ft/team-page
+git checkout ft/contact-page
+history
