@@ -147,4 +147,10 @@ git branch ft/team-page
 git branch
 git branch ft/contact-page
 git add .
-git checkout 
+git checkout
+git checkout ft/team-page
+git revert 139a6fa90b438b75f3aa072eb10b7cc229e529bc
+git push origin ft/team-page
+git checkout ft/faq-page
+git branch ft/home-page-redesign
+git checkout main
