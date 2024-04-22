@@ -154,3 +154,4 @@ git push origin ft/team-page
 git checkout ft/faq-page
 git branch ft/home-page-redesign
 git checkout main
+
